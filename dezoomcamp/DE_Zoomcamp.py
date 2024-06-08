@@ -5,7 +5,7 @@ add_page_title()
 
 show_pages(
     [   
-        Page("dezoomcamp/DE_Zoomcamp.py", "DE Zoomcamp", "💻"),
+        Page("dezoomcamp/DE_Zoomcamp.py", "ITEQMT Machine Learning Application Portfolio", "💻"),
 
         # # 2024 Content
         Section("DE Zoomcamp 2024", "🧙‍♂️"),
